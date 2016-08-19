@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TooltipHelp</string>
+    <string name="action_settings">Settings</string>
+    <string name="tooltip">Una vez que invitaste a tus amigos y completaste el numero de participantes es hora de pagar tu primera aportación..</string>
+</resources>
